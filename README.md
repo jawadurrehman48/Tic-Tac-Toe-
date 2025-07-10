@@ -32,6 +32,18 @@ This project is a classic **Tic-Tac-Toe** game implemented using **x86 Assembly 
    mycode.exe
 .
 
+## 📸 Screenshots
+
+### 🧩 Game Preview
+![Game Start](images/game-start.png)
+
+### 🎮 Gameplay in Action
+![Gameplay](images/gameplay.png)
+
+### 🏁 Win Condition
+![Win Screen](images/win-screen.png)
+
+
 
    
 
