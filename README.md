@@ -35,13 +35,13 @@ This project is a classic **Tic-Tac-Toe** game implemented using **x86 Assembly 
 ## 📸 Screenshots
 
 ### 🧩 Game Preview
-![Game Start](images/game-start.png)
+![Game Start](images/1.png)
 
 ### 🎮 Gameplay in Action
-![Gameplay](images/gameplay.png)
+![Gameplay](images/3.png)
 
 ### 🏁 Win Condition
-![Win Screen](images/win-screen.png)
+![Win Screen](images/2.png)
 
 
 
