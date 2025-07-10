@@ -43,6 +43,12 @@ This project is a classic **Tic-Tac-Toe** game implemented using **x86 Assembly 
 ### 🏁 Win Condition
 ![Win Screen](images/2.png)
 
+<p align="center">
+  <img src="images/1.png" width="30%" />
+  <img src="images/3.png" width="30%" />
+  <img src="images/2.png" width="30%" />
+</p>
+
 
 
    
